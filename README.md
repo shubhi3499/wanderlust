@@ -3,7 +3,7 @@
 A full-stack hotel booking platform where users can explore properties, view details, and book stays.  
 It includes authentication, listing management, and an intuitive UI for a smooth booking experience.  
 
-🚀 **Live Demo:** [WanderLust on Render]((https://wanderlust-mrqz.onrender.com/listings))  
+🚀 **Live Demo:** [WanderLust on Render](https://wanderlust-mrqz.onrender.com/listings) 
 
 ---
 
@@ -37,7 +37,7 @@ It includes authentication, listing management, and an intuitive UI for a smooth
 ![Signup Page](./docs/screenshots/signup.png)  
 
 ### ➕ Create New Listing  
-![Create Listing](./docs/screenshots/newlisting.png)  
+![Create Listing](./docs/screenshots/newListing.png)  
 
 ---
 
