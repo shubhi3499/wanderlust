@@ -28,7 +28,7 @@ It includes authentication, listing management, and an intuitive UI for a smooth
 ## 📸 Screenshots  
 
 ### 🏠 Explore Listings  
-![Explore Listings](./docs/screenshots/explore.png)  
+![Explore Listings](./docs/screenshots/listing.png)  
 
 ### 🔑 Login Page  
 ![Login Page](./docs/screenshots/login.png)  
@@ -37,7 +37,7 @@ It includes authentication, listing management, and an intuitive UI for a smooth
 ![Signup Page](./docs/screenshots/signup.png)  
 
 ### ➕ Create New Listing  
-![Create Listing](./docs/screenshots/create-listing.png)  
+![Create Listing](./docs/screenshots/newlisting.png)  
 
 ---
 
